@@ -24,14 +24,11 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,cpp,c,java,tailwind,php" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,git" />
-</div></td></tr></table>
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sourav78&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
