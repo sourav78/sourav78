@@ -1,6 +1,11 @@
 # 💫 About Me:
 👋 Hi, I’m sourav ranjan sahoo @sourav78<br>👀 I’m interested in Software development, Web development<br>🌱 I’m currently learning BSc Computer Science<br>📫 You can contact me in by Email - souravranjan488@gmail.com<br>📫 Also contact me on Instagram at - iam_julu___<br>📫 Linkedin - sourav ranjan sahoo
 
+---
+[![](https://visitcount.itsvg.in/api?id=sourav78&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
 
 ## 🌐 Socials:
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -52,11 +57,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sourav78&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=sourav78&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<br/><br/>
 <hr/>
 
 <h3 align="center">
