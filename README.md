@@ -11,7 +11,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <div align="center">
-    <a href="www.google.com"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+    <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </div>
 
 
