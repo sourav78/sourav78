@@ -14,7 +14,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <div align="center">
-    <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"/></a>
+    <a href="https://www.instagram.com/iam_julu___/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/iam_julu" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" target="_blank"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/sourav-ranjan-sahoo-583066246/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="sourav78" target="_blank"><img src="https://skillicons.dev/icons?i=discord" target="_blank"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/19607389/sourav-ranjan-sahoo" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" target="_blank"/></a>
 </div>
 
 
@@ -44,5 +48,3 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
-
-<br/>
